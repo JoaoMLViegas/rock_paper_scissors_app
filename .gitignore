@@ -1,0 +1,4 @@
+_venv_rock_paper_scissors_app/
+__pycache__/
+*.pyc
+*.pyo
